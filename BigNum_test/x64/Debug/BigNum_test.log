@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  test.cpp
+D:\BuiAnhKent_Add2Num_VS\BigNum_test\BigNum\BigNum.h(23,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\BuiAnhKent_Add2Num_VS\BigNum_test\BigNum\BigNum.h(24,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BigNum_test.vcxproj -> D:\BuiAnhKent_Add2Num_VS\BigNum_test\x64\Debug\BigNum_test.exe
